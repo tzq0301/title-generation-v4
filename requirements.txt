@@ -1,6 +1,9 @@
 bert4keras @ git+https://github.com/tzq0301/bert4keras.git@03afd53e12eed1ef3920baaa1983448f44f31b8d
+h5py==2.10.0
 jieba==0.42.1
-onnx==1.7
+Keras==2.3.1
+onnx==1.11.0
 onnxruntime==1.5.1
-protobuf==3.17.3
+onnxruntime-tools==1.7.0
+protobuf==3.20.1
 tensorflow==1.15.0
