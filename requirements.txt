@@ -1,0 +1,12 @@
+bert4keras @ git+https://github.com/tzq0301/bert4keras.git@03afd53e12eed1ef3920baaa1983448f44f31b8d
+jieba==0.42.1
+Keras==2.3.1
+onnx==1.11.0
+onnxmltools==1.11.1
+onnxruntime==1.5.1
+onnxruntime-tools==1.7.0
+rouge==1.0.1
+sympy==1.7.1
+tensorflow==1.15.0
+tf2onnx==1.11.1
+tqdm==4.64.0
